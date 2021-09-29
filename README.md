@@ -10,7 +10,7 @@
 ## Small JS Projects:
 
 - [Landing Page - Apparel](https://sharmaeklavya.github.io/apparel/)
-- [Landing Page - Insure](https://sharmaeklavya.github.io/projects/insure/)
+- [Landing Page - Insure](https://sharmaeklavya.github.io/insure/)
 
 - [Component - Pricing](https://sharmaeklavya.github.io/pricing/)
 - [Component - Fylo Data](https://sharmaeklavya.github.io/fylodata/)
