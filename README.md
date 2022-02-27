@@ -1,16 +1,12 @@
-# Hi! My name is Eklavya Sharma.
-
-## I am a life-time learner and a problem solver.
-
 ## Live Demo
 
 - [Git-hub pages](https://sharmaeklavya.github.io)
-- [Portfolio](https://ikesharma.netlify.app)
+- [Portfolio](https://eklavyasharma.netlify.app)
 
 ## Small JS Projects:
 
 - [Landing Page - Apparel](https://sharmaeklavya.github.io/apparel/)
-- [Landing Page - Insure](https://sharmaeklavya.github.io/projects/insure/)
+- [Landing Page - Insure](https://sharmaeklavya.github.io/insure/)
 
 - [Component - Pricing](https://sharmaeklavya.github.io/pricing/)
 - [Component - Fylo Data](https://sharmaeklavya.github.io/fylodata/)

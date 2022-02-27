@@ -66,9 +66,9 @@ const quizLib = [
       a: "Smriti Irani",
       b: "Prakash Javadekar",
       c: "Ramesh Pokhriyal",
-      d: "Harsh Vardhan",
+      d: "Dharmendra Pradhan",
     },
-    answer: "Ramesh Pokhriyal",
+    answer: "Dharmendra Pradhan",
   },
 
   {
@@ -76,22 +76,22 @@ const quizLib = [
     question: "Who is the Minister of Law and Justice?",
     choices: {
       a: "Arjun Munda",
-      b: "Ravi Shankar Prasad",
+      b: "Kiren Rijiju",
       c: "Ramvilas Paswan",
       d: "Nitin Jairam Gadkari",
     },
-    answer: "Ravi Shankar Prasad",
+    answer: "Kiren Rijiju",
   },
   {
     id: 8,
     question: "Who is the Minister of Railways?",
     choices: {
       a: "Giriraj Singh",
-      b: "Piyush Goel",
+      b: "Ashwini Vaishnaw",
       c: "Dharmendra Pradhan",
       d: "Pralhad Joshi",
     },
-    answer: "Piyush Goel",
+    answer: "Ashwini Vaishnaw",
   },
   {
     id: 9,
@@ -110,10 +110,10 @@ const quizLib = [
     choices: {
       a: "Giriraj Singh",
       b: "Piyush Goel",
-      c: "Dharmendra Pradhan",
+      c: "Dr. Mansukh Mandaviya",
       d: "Harsh Vardhan",
     },
-    answer: "Harsh Vardhan",
+    answer: "Mansukh Mandaviya",
   },
 ];
 
